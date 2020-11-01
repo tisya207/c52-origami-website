@@ -1,0 +1,109 @@
+
+    body{
+        background-color: #008080;
+    }
+
+    img {
+      max-width: 100%;
+      max-height: 100%;
+      transition: 0.75s;
+      align-items: center;
+      }
+    .header{
+        background-image: url("images/cement.jpg");
+        background-color: #008080;
+    }
+    h1{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center; 
+        color: peru;
+    }
+    h2{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center; 
+        color: purple;
+    }
+    h3{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center; 
+        color: rgb(151, 24, 10);
+    }
+    h4{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center; 
+        color: rgb(5, 100, 155);
+    }
+    
+    .Origami{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .Origami:hover img{
+      transform: scale(1.2);
+    }
+
+  .camelCSS{
+    bottom: 10px;
+    right: 10px;
+    background-color: #0a0808;
+    color: #f7f3f3;
+    padding-left: 5px;
+    padding-right: 5px;
+  }  
+  .chameleonCSS{
+   
+    bottom: 10px;
+    right: 10px;
+    background-color: #0a0808;
+    color: #f7f3f3;
+    padding-left: 5px;
+    padding-right: 5px;
+  }  
+  .cicadaCSS{
+   
+    bottom: 10px;
+    right: 10px;
+    background-color: #0a0808;
+    color: #f7f3f3;
+    padding-left: 5px;
+    padding-right: 5px;
+  } 
+  .pandaCSS{
+   
+    bottom: 10px;
+    right: 10px;
+    background-color: #0a0808;
+    color: #f7f3f3;
+    padding-left: 5px;
+    padding-right: 5px;
+  } 
+  .pigeonCSS{
+   
+    bottom: 10px;
+    right: 10px;
+    background-color: #0a0808;
+    color:#f7f3f3;
+    padding-left: 5px;
+    padding-right: 5px;
+  } 
+  .teddyCSS{
+   
+    bottom: 10px;
+    right: 10px;
+    background-color: #0a0808;
+    color: #f7f3f3;
+    padding-left: 5px;
+    padding-right: 5px;
+  } 
+  a:link{
+    color: palegreen;
+  }
+  a:visited{
+    color: palevioletred;
+  }
+
